@@ -1,7 +1,7 @@
 import './Chessboard.css';
 import Tile from '../Tile/Tile';
 import * as React from 'react';
-import Referee from "./refree/Referee";
+import Referee from "../../referee/referee";
 
 
 const horizontalAxist = ["a", "b", "c", "d", "e", "f", "g", "h"];
